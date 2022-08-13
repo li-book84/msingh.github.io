@@ -1,0 +1,30 @@
+@import url('css/font.css');
+@import url('css/mode.css');
+@import url('css/panel.css');
+@import url('css/header.css');
+@import url('css/footer.css');
+
+
+
+/* Index/ About Me Page */
+
+.indexMain{
+    padding: 1% 1%;
+    background: #25ac25ac;
+    position: absolute;
+    top: 15%;
+    left: 18%;
+    margin: auto 1%;
+}
+
+.indexMain > .title{
+    font-size: xx-large;
+    font-weight: bold;
+    font-family: 'directors-regular';
+    text-align: center;
+    margin-bottom: 2%;
+}
+
+.indexMain > .aboutme{
+    font-size: large;
+}

@@ -1,0 +1,53 @@
+.header{
+    background: auto;
+    display: flex;
+    flex-direction: row;
+    box-shadow: 0 0 10px #252525;
+    padding: 0.5% 0.5%;
+    position: fixed;
+    top: 0%;
+    left: 0%;
+    right: 0%;
+    height: 10%;
+}
+
+.bars-btn{
+    display: none;
+    padding: 5px 10px;
+    box-shadow: inset 0 0 10px #252525;
+    cursor: pointer;
+}
+
+.bars-btn > i{
+    content: "";
+    width: 39px;
+    height: 3px;
+    background: #252525;
+    display: block;
+    margin: 10px 0 10px 0;
+}
+
+.title-txt{
+    margin: auto 0;
+    text-align: center;
+    font-size: 35px;
+    font-family: "road rage";
+    font-weight: bolder;
+    font-style: italic;
+    width: 100%;
+    color: auto;
+}
+
+.users{
+    margin: auto 0;
+    position: absolute;
+    right: 2%;
+    padding: 20px 20px;
+    font-size: medium;
+    border-radius: 50px;
+    color: auto;
+    font-weight: bold;
+    cursor: pointer;
+    box-shadow: 0 0 5px #838080;
+    text-shadow: 2px 0 3px #313331ac;
+}

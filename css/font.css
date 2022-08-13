@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'road rage';
+    src: url('../fonts/Road_Rage.otf');
+}
+
+@font-face {
+    font-family: 'directors-regular';
+    src: url('../fonts/TTDirectorsDEMOBL-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'directors-thin';
+    src: url('../fonts/TTDirectorsDEMOThinRough-Thin.ttf');
+}
+
+@font-face {
+    font-family: 'bavista';
+    src: url('../fonts/Bavista_Soulare.ttf');
+}

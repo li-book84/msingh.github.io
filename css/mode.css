@@ -1,0 +1,18 @@
+svg{
+    padding: 1% 1%;
+    width: 42px;
+    height: 42px;
+    box-shadow: 0 0 10px #252525;
+    border-radius: 10px;
+    cursor: pointer;
+    user-select: none;
+    position: fixed;
+    top: 80%;
+    right: 3%;
+}
+
+.dark{
+    background: #252525;
+    color: #ffffff;
+    box-shadow: 0 0 10px #ffffff;
+}
